@@ -1,10 +1,10 @@
 # Project: The Interplay of Linguistic Clarity and Surprisal: A study of the relationship between word duration and surprisal
 The study uses a dataset of recorded and processed sentences, with surprisal values computed from a bigram language model, and phonetic durations analyzed with the MAUS and Praat speech processing tools.
 
-**Key Findings**
+**Key Findings:**
 Words with higher surprisal values tend to have longer durations. Shorter word durations dominate the dataset.
 
-**Files in the Project**
+**Files in the Project:**
 sentence*.txt: Test sentences 1-10 used for the study.
 sentence*.csv: Duration data files 1-10 for each sentence obtained with MAUS.
 data.csv: Dataset containing word durations and surprisal values.
